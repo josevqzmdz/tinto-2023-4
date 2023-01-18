@@ -1,5 +1,4 @@
-import adapter from '@sveltejs/adapter-node';
-import adapter from '@sveltejs/adapter-auto';
+import adapter_node from '@sveltejs/adapter-node';
 import cspDirectives from './csp-directives.mjs';
 
 // https://rodneylab.com/sveltekit-node-app-deploy/
@@ -8,7 +7,7 @@ import cspDirectives from './csp-directives.mjs';
 const config = {
 	preprocess: preprocess({ postcss: true }),
 	kit: {
-		adapter: adapter({ precompress: true }),
+		adapter: adapter_node({ precompress: true }),
 		csp: {
 			// Consult https://github.com/sveltejs/svelte-preprocess
 
@@ -34,4 +33,5 @@ the potential threat. We go for hashes instead of nonces because every visitor
 to the site will see the same content and we want to cache it. Nonces are 
 cheaper to generate but should not be reused across requests. You can see more 
 on CSP directives and XSS attacks in the post on SvelteKit Content Security Policy. 
+
 */

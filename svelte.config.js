@@ -1,28 +1,22 @@
-import adapter_node from '@sveltejs/adapter-node';
-import cspDirectives from './csp-directives.mjs';
-import preprocess from 'svelte-preprocess';
 
 // https://rodneylab.com/sveltekit-node-app-deploy/
+// https://kit.svelte.dev/docs/adapter-static
 
-/** @type {import('@sveltejs/kit').Config} */
-const config = {
-	preprocess: preprocess({ postcss: true }),
-	kit: {
-		adapter: adapter_node({ precompress: true }),
-		csp: {
-			// Consult https://github.com/sveltejs/svelte-preprocess
-
- 			// for more information about preprocessors
-			mode: 'hash',
-
-			directives: cspDirectives
-
-		}
-	}
+import adapter from '@sveltejs/adapter-static';
+ 
+export default {
+  kit: {
+    adapter: adapter({
+      // default options are shown. On some platforms
+      // these options are set automatically — see below
+      pages: 'build',
+      assets: 'build',
+      fallback: null,
+      precompress: false,
+      strict: true
+    })
+  }
 };
-
-export default config;
-
 /*
 Here we set up SvelteKit to use the node adapter. As well as that, in lines 13 – 16, 
 we add Content Security Policy (CSP) hashes. CSP directives help protect sites from

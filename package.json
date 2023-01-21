@@ -17,7 +17,7 @@
 		"vite": "^4.0.0",
 		"vitest": "^0.25.3"
 	},
-	"type": "Commonjs",
+	"type": "module",
 	"dependencies": {
 		"@sveltejs/adapter-static": "^1.0.5",
 		"debug": "^4.3.4",

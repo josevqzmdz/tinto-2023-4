@@ -17,7 +17,7 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- css principal-->
-        <link rel="stylesheet" type="text/css" href=".\latintomendez.com\src\routes\css\main.css"/>
+        <link rel="stylesheet" type="text/css" href="..\..\..\latintomendez.com\src\routes\css\main.css"/>
         <!-- bootstrap CDN-->
         <link rel="stylesheet" type="text/javascript" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
@@ -89,7 +89,7 @@
                               <div class="tm-gallery">
                                 <div class="tm-gallery-item">                        
                                   <figure class="effect-bubba">
-                                    <img src="images/svg/laundry/laundry.svg" class="img-fluid">
+                                    <img src="..\..\..\latintomendez.com\src\routes\images\svg\laundry\laundry.svg" class="img-fluid">
                                     <figcaption>
                                       <h2>Lavado en seco</h2>
                                       <p>Maquinas de calidad industrial para lavado en seco</p>
@@ -98,7 +98,7 @@
                                   </figure>
                                 <div class="tm-gallery-item">
                                   <figure class="effect-bubba">
-                                    <img src=".\latintomendez.com\src\routes\images\svg\laundry\clothes-laundry-fashion-svgrepo-com.svg" class="img-fluid">
+                                    <img src="..\..\..\latintomendez.com\src\routes\images\svg\laundry\clothes-laundry-fashion-svgrepo-com.svg" class="img-fluid">
                                     <figcaption>
                                       <h2>Tambien funcionamos como lavanderia</h2>
                                       <p>Somos la mejor solución para sus necesidades de lavado de ropa</p>
@@ -112,7 +112,7 @@
                                 <div class="row">
                                 <div class="tm-gallery-item">
                                   <figure class="effect-bubba">
-                                    <img src=".\latintomendez.com\src\routes\images\svg\laundry\iron-svgrepo-com.svg" class="img-fluid">
+                                    <img src="..\..\..\latintomendez.com\src\routes\images\svg\laundry\iron-svgrepo-com.svg" class="img-fluid">
                                     <figcaption>
                                       <h2>Tambien ofrecemos servicio de planchado.</h2>
                                       <p>No malgaste tiempo planchando su vestimenta formal, nosotros lo hacemos por usted</p>
@@ -123,7 +123,7 @@
                                 </div>
                                 <div class="tm-gallery-item">
                                   <figure class="effect-bubba">
-                                    <img src=".\latintomendez.com\src\routes\images\svg\laundry\laundry-svgrepo-com.svg" class="img-fluid">
+                                    <img src="..\..\..\latintomendez.com\src\routes\images\svg\laundry\laundry-svgrepo-com.svg" class="img-fluid">
                                     <figcaption>
                                       <h2>Simplemente, la mejor lavanderia de Los Reyes </h2>
                                       <p>Tenemos el mejor equipo y personal para sus necesidades de lavado y planchado de ropa.</p>

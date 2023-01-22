@@ -6,8 +6,8 @@
         integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="
         crossorigin="anonymous">
     </script>
-    <link type="text/css" rel="stylesheet" href=".\latintomendez.com\src\routes\css\lightslider.css" />                  
-    <script src=".\latintomendez.com\src\routes\js\lightslider.js"></script>        
+    <link type="text/css" rel="stylesheet" href="..\..\..\latintomendez.com\src\routes\css\lightslider.css" />                  
+    <script src="..\..\..\latintomendez.com\src\routes\js\lightslider.js"></script>        
 </head>
 
 <body>

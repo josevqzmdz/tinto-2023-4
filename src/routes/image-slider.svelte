@@ -13,43 +13,43 @@
 <body>
 <ul id="lightSlider">
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\tinto.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\tinto.jpg">
     </li>
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\pic1tinto.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\pic1tinto.jpg">
     </li> 
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\pic2tinto.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\pic2tinto.jpg">
     </li>    
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\pic3tinto.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\pic3tinto.jpg">
     </li>     
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\pic4tinto.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\pic4tinto.jpg">
     </li>      
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\pic5tinto.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\pic5tinto.jpg">
     </li> 
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\tinto6.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\tinto6.jpg">
     </li> 
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\tinto7.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\tinto7.jpg">
     </li> 
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\tinto8.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\tinto8.jpg">
     </li> 
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\tinto9.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\tinto9.jpg">
     </li> 
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\tinto10.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\tinto10.jpg">
     </li> 
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\tinto11.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\tinto11.jpg">
     </li> 
     <li>
-        <img src="..\..\..\latintomendez.com\src\routes\images\images\tinto12.jpg">
+        <img src="..\..\latintomendez.com\src\routes\images\images\tinto12.jpg">
     </li> 
   </ul>
 

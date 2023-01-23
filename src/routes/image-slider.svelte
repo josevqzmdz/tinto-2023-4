@@ -13,43 +13,43 @@
 <body>
 <ul id="lightSlider">
     <li>
-        <img src="../../images/images/tinto.png">
+        <img src="../../static/images/images/tinto.png">
     </li>
     <li>
-        <img src="../../images/images/pic1tinto.png">    
+        <img src="../../static/images/images/pic1tinto.png">    
     </li> 
     <li>
-        <img src="../../images/images/pic2tinto.png">
+        <img src="../../static/images/images/pic2tinto.png">
     </li>    
     <li>
-        <img src="../../images/images/pic3tinto.png">
+        <img src="../../static/images/images/pic3tinto.png">
     </li>     
     <li>
-        <img src="../../images/images/pic4tinto.png">
+        <img src="../../static/images/images/pic4tinto.png">
     </li>      
     <li>
-        <img src="../../images/images/pic5tinto.png">
+        <img src="../../static/images/images/pic5tinto.png">
     </li> 
     <li>
-        <img src="../../images/images/tinto6.png">
+        <img src="../../static/images/images/tinto6.png">
     </li> 
     <li>
-        <img src="../../images/images/tinto7.png">
+        <img src="../../static/images/images/tinto7.png">
     </li> 
     <li>
-        <img src="../../images/images/tinto8.png">
+        <img src="../../static/images/images/tinto8.png">
     </li> 
     <li>
-        <img src="../../images/images/tinto9.png">
+        <img src="../../static/images/images/tinto9.png">
     </li> 
     <li>
-        <img src="../../images/images/tinto10.png">
+        <img src="../../static/images/images/tinto10.png">
     </li> 
     <li>
-        <img src="../../images/images/tinto11.png">
+        <img src="../../static/images/images/tinto11.png">
     </li> 
     <li>
-        <img src="../../images/images/tinto12.png">
+        <img src="../../static/images/images/tinto12.png">
     </li> 
   </ul>
 

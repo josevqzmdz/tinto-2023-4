@@ -7,7 +7,7 @@
 <!-- svelte-ignore a11y-missing-attribute -->
 <script>
     import Navbar from "./Sidebar.svelte";
-    import ImageSlider from "./image-slider.svelte";
+    import ImageSlider from "./Image-slider.svelte";
 </script>
 <html>
     <head>
@@ -17,10 +17,10 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- css principal-->
-        <link rel="stylesheet" type="text/css" href="..\static\routes\css\main.css"/>
+        <link rel="stylesheet" type="text/css" href="../../src/routes/css/main.css"/>
         <!-- bootstrap CDN-->
-        <link rel="stylesheet" type="text/javascript" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
     <body>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
@@ -89,7 +89,7 @@
                               <div class="tm-gallery">
                                 <div class="tm-gallery-item">                        
                                   <figure class="effect-bubba">
-                                    <img src="..\static\images\svg\laundry\laundry.svg" class="img-fluid">
+                                    <img src="../../images/svg/laundry/laundry.svg" class="img-fluid">
                                     <figcaption>
                                       <h2>Lavado en seco</h2>
                                       <p>Maquinas de calidad industrial para lavado en seco</p>
@@ -98,7 +98,7 @@
                                   </figure>
                                 <div class="tm-gallery-item">
                                   <figure class="effect-bubba">
-                                    <img src="..\static\images\svg\laundry\clothes-laundry-fashion-svgrepo-com.svg" class="img-fluid">
+                                    <img src="../../images/svg/laundry/clothes-laundry-fashion-svgrepo-com.svg" class="img-fluid">
                                     <figcaption>
                                       <h2>Tambien funcionamos como lavanderia</h2>
                                       <p>Somos la mejor solución para sus necesidades de lavado de ropa</p>
@@ -112,7 +112,7 @@
                                 <div class="row">
                                 <div class="tm-gallery-item">
                                   <figure class="effect-bubba">
-                                    <img src="..\static\images\svg\laundry\iron-svgrepo-com.svg" class="img-fluid">
+                                    <img src="../../images/svg/laundry/iron-svgrepo-com.svg" class="img-fluid">
                                     <figcaption>
                                       <h2>Tambien ofrecemos servicio de planchado.</h2>
                                       <p>No malgaste tiempo planchando su vestimenta formal, nosotros lo hacemos por usted</p>
@@ -123,7 +123,7 @@
                                 </div>
                                 <div class="tm-gallery-item">
                                   <figure class="effect-bubba">
-                                    <img src="..\static\images\svg\laundry\laundry-svgrepo-com.svg" class="img-fluid">
+                                    <img src="../../images/svg/laundry/laundry-svgrepo-com.svg" class="img-fluid">
                                     <figcaption>
                                       <h2>Simplemente, la mejor lavanderia de Los Reyes </h2>
                                       <p>Tenemos el mejor equipo y personal para sus necesidades de lavado y planchado de ropa.</p>

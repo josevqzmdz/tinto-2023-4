@@ -6,50 +6,50 @@
         integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="
         crossorigin="anonymous">
     </script>
-    <link type="text/css" rel="stylesheet" href="..\static\css\lightslider.css" />                  
-    <script src="..\static\js\lightslider.js"></script>        
+    <link type="text/css" rel="stylesheet" href="../../src/routes/css/lightslider.css" />                  
+    <script src="../../src/routes/js/lightslider.js"></script>        
 </head>
 
 <body>
 <ul id="lightSlider">
     <li>
-        <img src="..\static\images\images\tinto.jpg">
+        <img src="../../images/images/tinto.png">
     </li>
     <li>
-        <img src="..\static\images\images\pic1tinto.jpg">
+        <img src="../../images/images/pic1tinto.png">    
     </li> 
     <li>
-        <img src="..\static\images\images\pic2tinto.jpg">
+        <img src="../../images/images/pic2tinto.png">
     </li>    
     <li>
-        <img src="..\static\static\images\images\pic3tinto.jpg">
+        <img src="../../images/images/pic3tinto.png">
     </li>     
     <li>
-        <img src="..\static\images\images\pic4tinto.jpg">
+        <img src="../../images/images/pic4tinto.png">
     </li>      
     <li>
-        <img src="..\static\images\images\pic5tinto.jpg">
+        <img src="../../images/images/pic5tinto.png">
     </li> 
     <li>
-        <img src="..\static\images\images\tinto6.jpg">
+        <img src="../../images/images/tinto6.png">
     </li> 
     <li>
-        <img src="..\static\images\images\tinto7.jpg">
+        <img src="../../images/images/tinto7.png">
     </li> 
     <li>
-        <img src="..\static\images\images\tinto8.jpg">
+        <img src="../../images/images/tinto8.png">
     </li> 
     <li>
-        <img src="..\static\images\images\tinto9.jpg">
+        <img src="../../images/images/tinto9.png">
     </li> 
     <li>
-        <img src="..\static\images\images\tinto10.jpg">
+        <img src="../../images/images/tinto10.png">
     </li> 
     <li>
-        <img src="..\static\images\images\tinto11.jpg">
+        <img src="../../images/images/tinto11.png">
     </li> 
     <li>
-        <img src="..\static\images\images\tinto12.jpg">
+        <img src="../../images/images/tinto12.png">
     </li> 
   </ul>
 

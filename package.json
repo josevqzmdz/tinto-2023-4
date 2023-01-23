@@ -19,6 +19,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sentry/svelte": "^7.31.1",
+		"@sentry/tracing": "^7.31.1",
 		"@sveltejs/adapter-static": "^1.0.5",
 		"debug": "^4.3.4",
 		"lightslider": "^1.1.6",

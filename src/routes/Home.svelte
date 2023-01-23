@@ -7,7 +7,7 @@
 <!-- svelte-ignore a11y-missing-attribute -->
 <script>
     import Navbar from "./Sidebar.svelte";
-    import ImageSlider from "../../src/routes/image-slider.svelte";
+    import ImageSlider from "./image-slider.svelte";
 </script>
 <html>
     <head>

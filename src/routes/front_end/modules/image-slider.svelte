@@ -6,8 +6,8 @@
         integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="
         crossorigin="anonymous">
     </script>
-    <link type="text/css" rel="stylesheet" href="css/lightslider.css" />                  
-    <script src="js/lightslider.js" type="application/javascript"></script>        
+    <link type="text/css" rel="stylesheet" href="../../assets/css/lightslider.css" />                  
+    <script src="../../assets/js/lightslider.js" type="text/javascript"></script>        
 </head>
 
 <body>
@@ -18,43 +18,43 @@
         /img/photo.jpg
     -->
     <li>
-        <img src="../../../images/images/tinto.png">
+        <img src="../../../assets/images/tinto.png">
     </li>
     <li>
-        <img src="../../../images/images/pic1tinto.png">    
+        <img src="../../../assets/images/pic1tinto.png">    
     </li> 
     <li>
-        <img src="../../../images/images/pic2tinto.png">
+        <img src="../../../assets/images/pic2tinto.png">
     </li>    
     <li>
-        <img src="../../../images/images/pic3tinto.png">
+        <img src="../../../assets/images/pic3tinto.png">
     </li>     
     <li>
-        <img src="../../../images/images/pic4tinto.png">
+        <img src="../../../assets/images/pic4tinto.png">
     </li>      
     <li>
-        <img src="../../../images/images/pic5tinto.png">
+        <img src="../../../assets/images/pic5tinto.png">
     </li> 
     <li>
-        <img src="../../../images/images/tinto6.png">
+        <img src="../../../assets/images/tinto6.png">
     </li> 
     <li>
-        <img src="../../images/images/tinto7.png">
+        <img src="../../../assets/images/tinto7.png">
     </li> 
     <li>
-        <img src="../../../images/images/tinto8.png">
+        <img src="../../../assets/images/tinto8.png">
     </li> 
     <li>
-        <img src="../../../images/images/tinto9.png">
+        <img src="../../../assets/images/tinto9.png">
     </li> 
     <li>
-        <img src="../../../images/images/tinto10.png">
+        <img src="../../../assets/images/tinto10.png">
     </li> 
     <li>
-        <img src="../../../images/images/tinto11.png">
+        <img src="../../../assets/images/tinto11.png">
     </li> 
     <li>
-        <img src="../../../images/images/tinto12.png">
+        <img src="../../../assets/images/tinto12.png">
     </li> 
   </ul>
 

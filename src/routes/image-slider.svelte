@@ -6,50 +6,55 @@
         integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="
         crossorigin="anonymous">
     </script>
-    <link type="text/css" rel="stylesheet" href="css/lightslider.css" />                  
-    <script src="js/lightslider.js"></script>        
+    <link type="text/css" rel="stylesheet" href="../../src/routes/css/lightslider.css" />                  
+    <script src="../../src/routes/js/lightslider.js" type="text/javascript"></script>        
 </head>
 
 <body>
 <ul id="lightSlider">
+    <!--
+         static is your root folder after the build step. So when you put an 
+         image into status/img/photo.jpg, you can reference it via
+        /img/photo.jpg
+    -->
     <li>
-        <img src="../../static/images/images/tinto.png">
+        <img src="../../src/libs/images/images/tinto.png">
     </li>
     <li>
-        <img src="../../static/images/images/pic1tinto.png">    
+        <img src="../../src/libs/images/images/pic1tinto.png">    
     </li> 
     <li>
-        <img src="../../static/images/images/pic2tinto.png">
+        <img src="../../src/libs/images/images/pic2tinto.png">
     </li>    
     <li>
-        <img src="../../static/images/images/pic3tinto.png">
+        <img src="../../src/libs/images/images/pic3tinto.png">
     </li>     
     <li>
-        <img src="../../static/images/images/pic4tinto.png">
+        <img src="../../src/libs/images/images/pic4tinto.png">
     </li>      
     <li>
-        <img src="../../static/images/images/pic5tinto.png">
+        <img src="../../src/libs/images/images/pic5tinto.png">
     </li> 
     <li>
-        <img src="../../static/images/images/tinto6.png">
+        <img src="../../src/libs/images/images/tinto6.png">
     </li> 
     <li>
-        <img src="../../static/images/images/tinto7.png">
+        <img src="../../src/libs/images/images/tinto7.png">
     </li> 
     <li>
-        <img src="../../static/images/images/tinto8.png">
+        <img src="../../src/libs/images/images/tinto8.png">
     </li> 
     <li>
-        <img src="../../static/images/images/tinto9.png">
+        <img src="../../src/libs/images/images/tinto9.png">
     </li> 
     <li>
-        <img src="../../static/images/images/tinto10.png">
+        <img src="../../src/libs/images/images/tinto10.png">
     </li> 
     <li>
-        <img src="../../static/images/images/tinto11.png">
+        <img src="../../src/libs/images/images/tinto11.png">
     </li> 
     <li>
-        <img src="../../static/images/images/tinto12.png">
+        <img src="../../src/libs/images/images/tinto12.png">
     </li> 
   </ul>
 

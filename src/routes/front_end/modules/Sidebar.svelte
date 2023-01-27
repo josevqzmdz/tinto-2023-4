@@ -1,3 +1,5 @@
+<!-- https://www.w3schools.com/howto/howto_css_sticky_element.asp-->
+<div class="sticky">
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <nav aria-label="breadcrumb">
@@ -16,3 +18,4 @@
     </nav>
   </div>
 </nav>
+</div>

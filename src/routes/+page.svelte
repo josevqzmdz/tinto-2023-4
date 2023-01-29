@@ -81,9 +81,9 @@
               <div class="hover-img-wrapper">
                 <!-- 1) -->
                 <div class="image-hover-1">
-                  <div class="hover-img-cooltrick">
-                  <div class="hover-img-cooltrick-item">
-                    <figure class="hover-img-cooltrick-effect">
+                  <div class="hover-img-blue-box">
+                  <div class="hover-img-blue-box-item">
+                    <figure class="hover-img-blue-box-effect">
                     <img src="../../../assets/svg/laundry/laundry.svg" class="icons-svg-laundry" alt="laundry-icon">                                   
                       <figcaption>             
                       <h2>
@@ -94,15 +94,15 @@
                       </p>
                       </figcaption>
                     </figure>
-                    </div>
-                    </div>
-                  </div><!-- end of hover-img-cooltrick-->
+                    </div><!-- end of hover-img-blue-box-item-->
+                    </div><!-- end of hover-image-blue-box-->
+                  </div><!-- end of hover-img-blue-box-->
                 </div><!-- end of hover image wrapper-->
                 <!-- 2) -->
                 <div class="image-hover-2">
-                  <div class="hover-img-cooltrick">
-                    <div class="hover-img-cooltrick-item">
-                    <figure class="hover-img-cooltrick-effect">
+                  <div class="hover-img-blue-box">
+                    <div class="hover-img-blue-box-item">
+                    <figure class="hover-img-blue-box-effect">
                     <img src="../../../assets/svg/laundry/clothes-laundry-fashion-svgrepo-com.svg" class="icons-svg-laundry"> 
                     <figcaption>
                       <h2>
@@ -120,9 +120,9 @@
                 <!-- 3) -->
                 <section class="introduction-container frontpage4">
                 <div class="image-hover-3">
-                  <div class="hover-img-cooltrick">
-                  <div class="hover-img-cooltrick-item">
-                    <figure class="hover-img-cooltrick-effect">
+                  <div class="hover-img-blue-box">
+                  <div class="hover-img-blue-box-item">
+                    <figure class="hover-img-blue-box-effect">
                     <img src="../../../assets/svg/laundry/iron-svgrepo-com.svg" class="icons-svg-laundry" alt="laundry-icon">
                       <figcaption>
                         <h2>
@@ -138,9 +138,9 @@
                 </div>
                 <!-- 4) -->
                 <div class="image-hover-4">
-                  <div class="hover-img-cooltrick">
-                    <div class="hover-img-cooltrick-item">
-                    <figure class="hover-img-cooltrick-effect">
+                  <div class="hover-img-blue-box">
+                    <div class="hover-img-blue-box-item">
+                    <figure class="hover-img-blue-box-effect">
                     <img src="../../../assets/svg/laundry/laundry-svgrepo-com.svg" class="icons-svg-laundry" alt="laundry-icon">
                       <figcaption>
                         <h2>
